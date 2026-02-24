@@ -1,0 +1,113 @@
+"date","nest","obs","ID","hour","sex","mate_presence","arrival_order","first_feeder","feeding","gesture","gesture_mate","time","observer","ceased_wing.fluttering","note","gesture_mate.num","arrival_order.num"
+"4/25/2025","23C","C23C","23Cmale","9h16","male","yes","2","male",1,0,"1",75.39,"MD-TL-SB",NA,"07.21 après le dernier battement d'ailes ",1,1
+"4/25/2025","23C","D23C","23Cmale","9h20","male","yes","2","male",1,0,"1",7.7,"MD-TL-SB",NA,"",1,1
+"4/25/2025","23C","E23C","23Cmale","9h23","male","yes","2","male",1,0,"1",14.23,"MD-TL-SB",NA,"",1,1
+"4/25/2025","23C","F23C","23Cmale","9h25","male","yes","2","male",1,0,"1",67.98,"MD-TL-SB",NA,"",1,1
+"4/25/2025","23C","G23C","23Cmale","9h27","male","yes","2","male",1,0,"1",8.6,"MD-TL-SB",NA,"",1,1
+"4/25/2025","23C","I23C","23Cmale","9h35","male","yes","1","male",1,0,"1",60.8,"MD-TL-SB",NA,"7sec 6 à partir du moment où la femelle est arrivée mais 1min57 avant où il est posé près du nid",1,0
+"4/25/2025","23C","K23C","23Cmale","9h45","male","yes","2","male",1,0,"1",18.64,"MD-TL-SB",NA,"",1,1
+"4/25/2025","23C","L23C","23Cmale","9h51","male","yes","2","male",1,0,"1",13.39,"MD-TL-SB",NA,"",1,1
+"4/25/2025","23C","M23C","23Cmale","9h53","male","yes","2","male",1,0,"1",14.37,"MD-TL-SB",NA,"",1,1
+"4/25/2025","23C","S23C","23Cmale","10h25","male","yes","1","male",1,0,"1",26.47,"MD-TL-SB",NA,"",1,0
+"4/25/2025","23C","Y23C","23Cmale","10h36","male","yes","2","male",1,0,"1",11.36,"MD-TL-SB",NA,"",1,1
+"4/25/2025","23C","EE23C","23Cmale","10h45","male","yes","1","male",1,0,"1",30.8,"MD-TL-SB",NA,"",1,0
+"4/25/2025","23C","FF23C","23Cmale","10h47","male","yes","1","male",1,0,"0",45.13,"MD-TL-SB",NA,"La femelle fait le mouvement après l'entrée du mâle dans le nid",0,0
+"4/25/2025","23C","GG23C","23Cmale","10h48","male","yes","2","male",1,0,"0",3.8,"MD-TL-SB",NA,"",0,1
+"4/25/2025","23C","HH23C","23Cmale","10h49","male","yes","1","male",1,0,"0",24.34,"MD-TL-SB",NA,"",0,0
+"4/25/2025","23C","UU23C","23Cmale","11h09","male","yes","1","male",1,0,"1",11.72,"MD-TL-SB",NA,"",1,0
+"4/28/2025","43C","C43C","43Cmale","10h10","male","yes","2","male",1,0,"0",26,"RB-CH-SB",NA,"",0,1
+"4/28/2025","43C","F43C","43Cmale","10h20","male","yes","1","male",1,0,"0",12.68,"RB-CH-SB",NA,"",0,0
+"4/28/2025","43C","L43C","43Cmale","10h47","male","yes","2","male",1,0,"0",16.1,"RB-CH-SB",NA,"",0,1
+"4/29/2025","41C","B41C","41Cmale","10h31","male","yes","2","male",1,0,"0",42.22,"KT_ML-SB",NA,"",0,1
+"4/29/2025","41C","N41C","41Cmale","11h16","male","yes","2","male",1,0,"0",7.3,"KT_ML-SB",NA,"la femelle reste proche du nichoir pendant que le male fait des aller-retours pour nourrir",0,1
+"4/29/2025","41C","O41C","41Cmale","11h17","male","yes","2","male",1,0,"0",27,"KT_ML-SB",NA,"la femelle reste proche du nichoir pendant que le male fait des aller-retours pour nourrir",0,1
+"4/29/2025","41C","Q41C","41Cmale","11h19","male","yes","2","male",1,0,"0",35.63,"KT_ML-SB",NA,"la femelle reste proche du nichoir pendant que le male fait des aller-retours pour nourrir",0,1
+"4/29/2025","41C","R41C","41Cmale","11h20","male","yes","2","male",1,0,"1",12.5,"KT_ML-SB",NA,"la femelle reste proche du nichoir pendant que le male fait des aller-retours pour nourrir",1,1
+"4/29/2025","41C","T41C","41Cmale","11h21 30""","male","yes","2","male",1,0,"0",21.3,"KT_ML-SB",NA,"la femelle reste proche du nichoir pendant que le male fait des aller-retours pour nourrir",0,1
+"4/29/2025","41C","U41C","41Cmale","11h22","male","yes","2","male",1,0,"0",35,"KT_ML-SB",NA,"la femelle reste proche du nichoir pendant que le male fait des aller-retours pour nourrir",0,1
+"4/29/2025","41C","V41C","41Cmale","11h23","male","yes","2","male",1,0,"0",25.6,"KT_ML-SB",NA,"la femelle reste proche du nichoir pendant que le male fait des aller-retours pour nourrir",0,1
+"4/29/2025","41C","W41C","41Cmale","11h24","male","yes","2","male",1,0,"1",24,"KT_ML-SB",NA,"la femelle reste proche du nichoir pendant que le male fait des aller-retours pour nourrir 7'' entre geste et entrée",1,1
+"4/29/2025","41C","X41C","41Cmale","11h25","male","yes","2","male",1,0,"0",5.46,"KT_ML-SB",NA,"la femelle reste proche du nichoir pendant que le male fait des aller-retours pour nourrir",0,1
+"4/29/2025","41C","Z41C","41Cmale","11h29","male","yes","2","male",1,0,"0",11.33,"KT_ML-SB",NA,"la femelle reste proche du nichoir pendant que le male fait des aller-retours pour nourrir",0,1
+"4/29/2025","35C","F35C","35Cmale","10h11","male","yes","2","male",1,0,"0",19,"CH-MD-RB",NA,"",0,1
+"4/29/2025","35C","G35C","35Cmale","10h15","male","yes","2","male",1,0,"0",50,"CH-MD-RB",NA,"",0,1
+"4/29/2025","35C","N35C","35Cmale","10h32","male","yes","2","male",1,0,"0",21.44,"CH-MD-RB",NA,"",0,1
+"4/29/2025","35C","P35C","35Cmale","10h40","male","yes","2","male",1,0,"1",5.17,"CH-MD-RB",NA,"",1,1
+"4/29/2025","35C","Q35C","35Cmale","10h45","male","yes","2","male",1,0,"0",21.78,"CH-MD-RB",NA,"",0,1
+"4/29/2025","35C","S35C","35Cmale","10h51","male","yes","2","male",1,0,"1",6,"CH-MD-RB",NA,"",1,1
+"4/29/2025","35C","U35C","35Cmale","10h54","male","yes","2","male",1,0,"0",4,"CH-MD-RB",NA,"male sort avec sac fécal",0,1
+"4/29/2025","35C","V35C","35Cmale","10h56","male","yes","2","male",1,0,"0",6.23,"CH-MD-RB",NA,"male sort avec sac fécal",0,1
+"4/29/2025","35C","X35C","35Cmale","11h00","male","yes","2","male",1,0,"0",19.04,"CH-MD-RB",NA,"",0,1
+"4/29/2025","35C","Y35C","35Cmale","11h01","male","yes","2","male",1,0,"0",4.4,"CH-MD-RB",NA,"",0,1
+"4/29/2025","35C","Z35C","35Cmale","11h04","male","yes","2","male",1,0,"1",0.74,"CH-MD-RB",NA,"",1,1
+"4/29/2025","35C","CC35C","35Cmale","11h08","male","yes","2","male",1,0,"1",3.99,"CH-MD-RB",NA,"",1,1
+"4/29/2025","35C","EE35C","35Cmale","11h10","male","yes","2","male",1,0,"1",3.87,"CH-MD-RB",NA,"",1,1
+"4/30/2025","22C","G22C","22Cmale","10h05","male","yes","2","male",1,0,"1",12.14,"SB-KT-RB",NA,"",1,1
+"4/30/2025","22C","L22C","22Cmale","10h31","male","yes","2","male",1,0,"0",12.55,"SB-KT-RB",NA,"",0,1
+"4/30/2025","22C","P22C","22Cmale","10h55","male","yes","2","male",1,0,"0",37.79,"SB-KT-RB",NA,"",0,1
+"4/30/2025","22C","R22C","22Cmale","10h58","male","yes","2","male",1,0,"0",13.81,"SB-KT-RB",NA,"",0,1
+"4/30/2025","22C","W22C","22Cmale","11h06","male","yes","2","male",1,0,"1",2.1,"SB-KT-RB",NA,"",1,1
+"4/30/2025","22C","AA22C","22Cmale","11h26","male","yes","2","male",1,0,"0",10.56,"SB-KT-RB",NA,"",0,1
+"5/2/2025","39B","K39B","39Bmale","10h20","male","yes","2","male",1,0,"0",30.1,"MD-CH-RB",NA,"",0,1
+"5/2/2025","39B","L39B","39Bmale","10h20","male","yes","2","male",1,0,"0",6.63,"MD-CH-RB",NA,"",0,1
+"5/2/2025","39B","M39B","39Bmale","10h22","male","yes","1","male",1,0,"0",20.13,"MD-CH-RB",NA,"écureuil dans les 5/10m",0,0
+"5/2/2025","39B","CCC39B","39Bmale","11h10","male","yes","1","male",1,0,"0",21.94,"MD-CH-RB",NA,"",0,0
+"5/2/2025","39B","DDD39B","39Bmale","11h11","male","yes","2","male",1,0,"0",40.89,"MD-CH-RB",NA,"",0,1
+"5/7/2025","13B","L13B","13Bmale","9h33","male","yes","2","male",1,0,"0",19.34,"MD-CH-ML",NA,"",0,1
+"5/7/2025","13B","P13B","13Bmale","9h40","male","yes","2","male",1,0,"1",5.98,"MD-CH-ML",NA,"",1,1
+"5/7/2025","13B","Q13B","13Bmale","9h42","male","yes","2","male",1,0,"0",30.87,"MD-CH-ML",NA,"",0,1
+"5/7/2025","13B","R13B","13Bmale","9h44","male","yes","2","male",1,0,"0",8.46,"MD-CH-ML",NA,"",0,1
+"5/7/2025","13B","S13B","13Bmale","9h45","male","yes","2","male",1,0,"0",14.24,"MD-CH-ML",NA,"",0,1
+"5/7/2025","13B","T13B","13Bmale","9h46","male","yes","2","male",1,0,"0",2.71,"MD-CH-ML",NA,"",0,1
+"5/7/2025","13B","V13B","13Bmale","9h49","male","yes","2","male",1,0,"0",14.51,"MD-CH-ML",NA,"",0,1
+"5/7/2025","13B","Z13B","13Bmale","9h53","male","yes","2","male",1,0,"0",10.96,"MD-CH-ML",NA,"",0,1
+"5/7/2025","13B","AA13B","13Bmale","9h55","male","yes","2","male",1,0,"1",4.95,"MD-CH-ML",NA,"",1,1
+"5/7/2025","13B","BB13B","13Bmale","9h56","male","yes","2","male",1,0,"0",4.51,"MD-CH-ML",NA,"",0,1
+"5/7/2025","13B","CC13B","13Bmale","9h59","male","yes","2","male",1,0,"0",8.97,"MD-CH-ML",NA,"",0,1
+"5/7/2025","13B","DD13B","13Bmale","10h00","male","yes","2","male",1,0,"1",10.42,"MD-CH-ML",NA,"",1,1
+"5/7/2025","13B","SS13B","13Bmale","10h31","male","yes","1","male",1,0,"1",1.65,"MD-CH-ML",NA,"",1,0
+"5/7/2025","13B","HHH13C","13Bmale","10h44","male","yes","2","male",1,0,"0",4.58,"MD-CH-ML",NA,"pas sur du geste ",0,1
+"5/7/2025","13C","L13C","13Cmale","10h10","male","yes","2","male",1,0,"0",26.08,"KT-RB-SB",NA,"",0,1
+"5/7/2025","13C","O13C","13Cmale","10h14","male","yes","2","male",1,0,"0",18.63,"KT-RB-SB",NA,"",0,1
+"5/7/2025","13C","Q13C","13Cmale","10h18","male","yes","2","male",1,0,"0",49.97,"KT-RB-SB",NA,"",0,1
+"5/7/2025","13C","U13C","13Cmale","10h25","male","yes","2","male",1,0,"1",25.11,"KT-RB-SB",NA,"",1,1
+"5/7/2025","13C","W13C","13Cmale","10h33","male","yes","2","male",1,0,"0",113.31,"KT-RB-SB",NA,"",0,1
+"5/13/2025","33C","N33C","33Cmale","10h08","male","yes","1","male",1,0,"1",16.53,"ML-CH-SB",NA,"",1,0
+"5/13/2025","33C","O33C","33Cmale","10h15","male","yes","2","male",1,0,"1",9.13,"ML-CH-SB",NA,"",1,1
+"5/13/2025","33C","Q33C","33Cmale","10h19","male","yes","1","male",1,0,"0",20.42,"ML-CH-SB",NA,"",0,0
+"5/13/2025","33C","T33C","33Cmale","10h24","male","yes","2","male",1,0,"0",37.68,"ML-CH-SB",NA,"",0,1
+"5/13/2025","33C","V33C","33Cmale","10h27","male","yes","2","male",1,0,"1",23.23,"ML-CH-SB",NA,"",1,1
+"5/13/2025","33C","W33C","33Cmale","10h28","male","yes","1","male",1,0,"0",13.86,"ML-CH-SB",NA,"",0,0
+"5/13/2025","33C","X33C","33Cmale","10h33","male","yes","1","male",1,0,"1",4.26,"ML-CH-SB",NA,"",1,0
+"5/13/2025","33C","Y33C","33Cmale","10h34","male","yes","2","male",1,0,"0",10.5,"ML-CH-SB",NA,"",0,1
+"5/13/2025","33C","AA33C","33Cmale","10h35","male","yes","2","male",1,0,"0",15.42,"ML-CH-SB",NA,"",0,1
+"5/13/2025","33C","DD33C","33Cmale","10h39","male","yes","1","male",1,0,"0",27.99,"ML-CH-SB",NA,"",0,0
+"5/13/2025","33C","EE33C","33Cmale","10h40","male","yes","2","male",1,0,"0",14.78,"ML-CH-SB",NA,"",0,1
+"5/13/2025","33C","II33C","33Cmale","10h47","male","yes","2","male",1,0,"1",10.37,"ML-CH-SB",NA,"",1,1
+"5/13/2025","33C","JJ33C","33Cmale","10h48","male","yes","1","male",1,0,"0",3.29,"ML-CH-SB",NA,"",0,0
+"5/13/2025","33C","KK33C","33Cmale","10h50","male","yes","1","male",1,0,"1",11.61,"ML-CH-SB",NA,"",1,0
+"5/13/2025","33C","NN33C","33Cmale","10h59","male","yes","2","male",1,0,"1",9.91,"ML-CH-SB",NA,"",1,1
+"5/13/2025","33C","TT33C","33Cmale","11h09","male","yes","2","male",1,0,"1",6.95,"ML-CH-SB",NA,"",1,1
+"5/13/2025","36C","H36C","36Cmale","9h29","male","yes","2","male",1,1,"1",27.64,"MD-RB-KT",NA,"",1,1
+"5/13/2025","36C","J36C","36Cmale","9h32","male","yes","2","male",1,0,"1",26.38,"MD-RB-KT",NA,"",1,1
+"5/13/2025","36C","L36C","36Cmale","9h36","male","yes","1","male",1,0,"1",28,"MD-RB-KT",NA,"",1,0
+"5/13/2025","36C","M36C","36Cmale","9h38","male","yes","2","male",1,0,"0",47.85,"MD-RB-KT",NA,"",0,1
+"5/13/2025","36C","O36C","36Cmale","9h42","male","yes","1","male",1,0,"1",15.27,"MD-RB-KT",NA,"",1,0
+"5/13/2025","36C","P36C","36Cmale","9h42","male","yes","1","male",1,0,"0",7.86,"MD-RB-KT",NA,"",0,0
+"5/13/2025","36C","S36C","36Cmale","9h49","male","yes","2","male",1,0,"1",13.03,"MD-RB-KT",NA,"",1,1
+"5/13/2025","36C","T36C","36Cmale","9h51","male","yes","2","male",1,0,"0",22,"MD-RB-KT",NA,"",0,1
+"5/13/2025","36C","U36C","36Cmale","9h53","male","yes","2","male",1,0,"1",13.21,"MD-RB-KT",NA,"",1,1
+"5/13/2025","36C","W36C","36Cmale","9h56","male","yes","2","male",1,0,"0",17.48,"MD-RB-KT",NA,"",0,1
+"5/13/2025","36C","X36C","36Cmale","9h59","male","yes","2","male",1,0,"1",4.99,"MD-RB-KT",NA,"",1,1
+"5/13/2025","36C","Y36C","36Cmale","10h00","male","yes","2","male",1,0,"0",30.56,"MD-RB-KT",NA,"",0,1
+"5/13/2025","36C","AA36C","36Cmale","10h03","male","yes","1","male",1,0,"0",19.72,"MD-RB-KT",NA,"",0,0
+"5/13/2025","36C","II36C","36Cmale","10h16","male","yes","2","male",1,0,"0",22.69,"MD-RB-KT",NA,"",0,1
+"5/13/2025","36C","LL36C","36Cmale","10h21","male","yes","2","male",1,0,"1",9.82,"MD-RB-KT",NA,"",1,1
+"5/13/2025","36C","NN36C","36Cmale","10h25","male","yes","2","male",1,0,"0",16.62,"MD-RB-KT",NA,"",0,1
+"5/13/2025","36C","PP36C","36Cmale","10h27","male","yes","2","male",1,0,"0",10.18,"MD-RB-KT",NA,"",0,1
+"5/13/2025","36C","LLL36C","36Cmale","11h04","male","yes","2","male",1,0,"1",14.55,"MD-RB-KT",NA,"",1,1
+"5/13/2025","36C","UUU36C","36Cmale","11h09","male","yes","2","male",1,0,"0",10.18,"MD-RB-KT",NA,"",0,1
+"5/14/2025","53C","N53C","53Cmale","11h09","male","yes","2","male",1,0,"0",48.39,"MD-RB-CH",NA,"",0,1
+"5/14/2025","53C","R53C","53Cmale","11h12","male","yes","1","male",1,0,"0",29.99,"MD-RB-CH",NA,"",0,0
+"5/14/2025","53C","T53C","53Cmale","11h19","male","yes","1","male",1,0,"0",44.89,"MD-RB-CH",NA,"",0,0
+"5/14/2025","53C","U53C","53Cmale","11h19","male","yes","2","male",1,0,"0",4.9,"MD-RB-CH",NA,"",0,1
