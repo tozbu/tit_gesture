@@ -2,7 +2,7 @@
 library(brms)
 
 ### Open the data file
-tab.obs2 = read.csv("./for github repository/data_files/dataset Model 2 sex indiv enter nest first.csv", header = T)
+tab.obs2 = read.csv("./data_files/dataset Model 2 sex indiv enter nest first.csv", header = T)
 
 
 #releveling the factor
@@ -63,5 +63,6 @@ round(sum(post.m1.feed[,"b_sex.gesturefemale"] > 0.00)/
 
 round(sum(post.m1.feed[,"b_first.arrivermale"] > 0.00)/
         length(post.m1.feed[,"b_first.arrivermale"]),3)  #0.504  
+
 
 
