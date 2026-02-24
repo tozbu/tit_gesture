@@ -2,7 +2,7 @@
 library(brms)
 
 ### Open the data file
-dw3 = read.csv("./for github repository/data_files/dataset Model 6 stop gesture when fed.csv", header = T)
+dw3 = read.csv("./data_files/dataset Model 6 stop gesture when fed.csv", header = T)
 
 
 #get the brms default prior
@@ -58,3 +58,4 @@ length(which(posterior_prob_intercept>0.5))/length(posterior_prob_intercept) #0.
 
 # 99.923 % posterior support for a positive intercept 
 #(for wing fluttering stopping more when parents feed them)
+
