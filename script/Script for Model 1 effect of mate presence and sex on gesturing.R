@@ -3,7 +3,7 @@
 library(brms)
 
 ### Open the data file
-dg = read.csv("./for github repository/data_files/dataset Model 1 gesture and mate presence.csv", header = T)
+dg = read.csv("./data_files/dataset Model 1 gesture and mate presence.csv", header = T)
 
 #get default prior from BRMS
 mprior = get_prior(gesture ~ sex*mate_presence +
@@ -272,4 +272,5 @@ legend(x = 4.5, y=1.02, legend = c(" 1", " 5", " 15", " 40"),
        cex =1.1, bty="n")
 
 box()
+
 
