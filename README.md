@@ -33,3 +33,14 @@ To replicate the analyses:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/tozbu/tit_gesture](https://github.com/tozbu/tit_gesture)
+
+## 💻 Software & Package Requirements
+
+To run these analyses, you will need **R** (version 4.0.0 or higher recommended) and the following Bayesian modeling package:
+
+* **[brms](https://paul-buerkner.github.io/brms/):** Bayesian Regression Models using 'Stan'.
+
+You can install the required package by running the following command in your R console:
+
+```r
+install.packages("brms")
