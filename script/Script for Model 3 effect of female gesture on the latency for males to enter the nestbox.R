@@ -2,7 +2,7 @@
 library(brms)
 
 ### Open the data file
-dl = read.csv("./for github repository/data_files/dataset Model 3 latency to enter nest.csv", header = T)
+dl = read.csv("./data_files/dataset Model 3 latency to enter nest.csv", header = T)
 
 
 #getting default priors from brms
@@ -188,6 +188,7 @@ yy1 = t.lat2$mean.lat[t.lat2$gesture_mate==0] #create vector of latency when the
 yy2 = t.lat2$mean.lat[t.lat2$gesture_mate==1] #create vector of latency when there was female gestures
 
 segments(x0 = rep(1, length(yy1)), x1=rep(2, length(yy2)), y0 =yy1, y1=yy2, col="grey")
+
 
 
 
