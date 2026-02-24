@@ -2,7 +2,7 @@
 library(brms)
 
 ### Open the data file
-dw2 = read.csv("./for github repository/data_files/dataset Model 5 gesture and mparent presence.csv", header = T)
+dw2 = read.csv("./data_files/dataset Model 5 gesture and mparent presence.csv", header = T)
 
 
 #get default brms priors
@@ -179,3 +179,4 @@ legend(x = 0.75, y= .85, legend = c(" 1", " 3", " 9"),
        cex =1.1, bty="n")
 
 box()
+
