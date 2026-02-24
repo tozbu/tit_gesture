@@ -2,7 +2,7 @@
 library(brms)
 
 ### Open the data file
-dl = read.csv("./for github repository/data_files/dataset Model 4 stop gesturing.csv", header = T)
+dl = read.csv("./data_files/dataset Model 4 stop gesturing.csv", header = T)
 
 #get default priors from brms
 mprior4 = get_prior(ceased_wing.fluttering ~ 1 +
@@ -59,3 +59,4 @@ length(which(posterior_prob_intercept>0.5))/length(posterior_prob_intercept) # 0
 
 # 99.4 % posterior support for a positive intercept 
 #(for wing fluttering stopping more when partner entered the nest)
+
